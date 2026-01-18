@@ -1,10 +1,10 @@
-# 🎲 SorteadoX
+# 🎲 SorteadorX
 
 Aplicação web moderna para realização de sorteios e gerenciamento de participantes de forma simples e intuitiva.
 
 ## 📋 Sobre o Projeto
 
-O SorteadoX é uma aplicação desenvolvida para facilitar a realização de sorteios, seja para eventos, promoções ou qualquer situação que necessite selecionar participantes de forma aleatória e transparente.
+O SorteadorX é uma aplicação desenvolvida para facilitar a realização de sorteios, seja para eventos, promoções ou qualquer situação que necessite selecionar participantes de forma aleatória e transparente.
 
 ## ✨ Funcionalidades
 
@@ -47,12 +47,12 @@ sorteadorx/
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/Gabrielgalvimdev/SorteadoX.git
+git clone https://github.com/Gabrielgalvimdev/SorteadorX.git
 ```
 
 2. Acesse a pasta do projeto
 ```bash
-cd SorteadoX
+cd SorteadorX
 ```
 
 3. Instale as dependências
